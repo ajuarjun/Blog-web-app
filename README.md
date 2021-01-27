@@ -1,5 +1,5 @@
 # Blog web app
-This is a simple Blog Web application created using [Node.JS](https://nodejs.org/en/), [Express](https://expressjs.com/), [EJS](https://ejs.co/) and [MongoDB](https://www.mongodb.com/2). The project looks like:
+This is a simple Blog Web application created using [Node.JS](https://nodejs.org/en/), [Express](https://expressjs.com/), [EJS](https://ejs.co/) and [MongoDB](https://www.mongodb.com/2). This project was created when I was taking the [**The Complete 2021 Web Development Bootcamp - Angela Yu**](https://www.udemy.com/course/the-complete-web-development-bootcamp/)  course. The project looks like:
 
 ![Blog home](./images/blog.JPG)
 
